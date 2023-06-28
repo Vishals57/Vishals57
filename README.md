@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Vishal shinde
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning java php ruby python c c++ sql mongoDB 
+- 📫 How to reach me Vs7870507@gmail.com
