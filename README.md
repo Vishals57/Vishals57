@@ -1,3 +1,5 @@
+![logo](![Screenshot 2023-07-25 192423](https://github.com/Vishals57/Vishals57/assets/131419781/3b260c40-dc36-4514-ae76-9be39d5c0d36)
+)
 <h1 align="center">Hi 👋, I'm vishal shinde</h1>
 <h3 align="center">A passionate web developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLV724M4QSVD6ts7BHGXbmsUAl-Mv055jiMw&usqp=CAU">
